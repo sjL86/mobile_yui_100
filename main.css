@@ -66,7 +66,7 @@ footer, header, hgroup, menu, nav, section {
   .header-content{ position:relative;     max-width: 393px;
   margin: 0px auto; height:100%;align-items: center; }
   .main-title { position:absolute; top:10%; width:80%; max-width:300px; left:50%; transform:translateX(-50%); }
-  .main-photo { position:absolute; width: 630px; height: 758px; left:50%; transform:translateX(-50%);  }
+  .main-photo { position:absolute; width: 315px; height: 379px; left:50%; transform:translateX(-50%);  }
   .page2-photo { position:absolute; width: 315px; height: 955px; left:50%; transform:translateX(-50%);  }
   .invitation {
     max-width: 393px;       /* 모바일 화면 기준 */
